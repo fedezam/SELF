@@ -1,0 +1,29 @@
+{
+  "subprueba": "Comprensión de frases",
+  "edad_aplicable": "5-8 años",
+  "objetivo": "Medir la aptitud del niño para comprender estructuras gramaticales en frases orales.",
+  "material": "Cuaderno de estímulos 1",
+  "formato": "El terapeuta lee una frase y el niño debe señalar el dibujo que corresponde.",
+  "reglas": {
+    "punto_comienzo": "Ítem 7 (si edad = 5:0 a 5:11) / Ítem 13 (si edad = 6:0 a 8:11)",
+    "regla_retorno": "Sí, si el niño falla uno o ambos ítems iniciales",
+    "regla_terminación": "Después de 4 errores consecutivos"
+  },
+  "puntuacion": {
+    "escala": [0, 1],
+    "n_items": 26,
+    "registro": {
+      "respuestas": [],
+      "puntuacion_total": null
+    }
+  },
+  "campos_clinicos": {
+    "observaciones_terapeuta": "",
+    "tiempo_estimado": "5-8 minutos"
+  },
+  "interpretacion_simbólica": {
+    "si_fallas_altas_en_oraciones_relativas": "posible fractura en el procesamiento secuencial",
+    "si errores en negaciones o pasivas": "confusión en inversión semántica o polaridad emocional",
+    "si aciertos con oraciones complejas": "potencial de comprensión abstracta aún con bloqueos expresivos"
+  }
+}
